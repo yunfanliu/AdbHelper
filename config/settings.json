@@ -1,0 +1,10 @@
+{
+    "default_save_path": "./logs",
+    "auto_start": false,
+    "log_level": "INFO",
+    "packages_path": "./config/packages.json",
+    "devices_path": "./config/devices.txt",
+    "scrcpy_path": "./tools",
+    "log_output_dir": "./logs",
+    "screenshot_output_dir": "./screenshots"
+}

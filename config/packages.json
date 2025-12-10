@@ -1,0 +1,18 @@
+{
+    "常用包名1": [
+        "com.example.appstore1",
+        "com.example.appstore2"
+    ],
+    "常用包名2": [
+        "com.example.app1",
+        "com.example.app2"
+    ],
+    "常用包名3": [
+        "com.example.monitor1",
+        "com.example.monitor2"
+    ],
+    "常用包名4": [
+        "com.example.cleaner1",
+        "com.example.cleaner2"
+    ]
+}
